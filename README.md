@@ -50,7 +50,7 @@ Once the data had been cleaned and properly structured I moved on to plotting so
 - 50% of Nigerian higher education institutions were created during the 24 years between 1993 to 2017.
 - The first instituion of higher education was constructed in 1908.
 - 25% of all institutions of higher education were created during the 85 years between 1908 to 1993.
-- The other 25% of all institutions of higher education were created during the 6 year period from 2017 to 2023. There seems to be a clear acceleration in Nigerian investment in institutions of higher education. This growth is being lead primarily by Private investors/owners.
-- The vast majority of Universities, Colleges of Education, Ploythenics, and Innovation Enterprises are privately owned. State and Federal government takes the lead in terms in ownership of Colleges of Agriculture and Insitutions that offer NCE Programmes.
+- The other 25% of all institutions of higher education were created during the 6 year period from 2017 to 2023. There seems to be a clear acceleration of investment in Nigeiran institutions of higher education. This growth is being lead primarily by Private investors/owners.
+- The vast majority of Universities, Colleges of Education, Ploythenics, and Innovation Enterprises are privately owned. State and Federal government takes the lead in terms of ownership of Colleges of Agriculture and Insitutions that offer NCE Programmes.
 - 57.5% of all of Nigerias institutions of higher education are privately owned.
 
